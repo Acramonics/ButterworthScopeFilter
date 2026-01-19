@@ -1,0 +1,24 @@
+LTspice 26.0.1 for Windows
+Circuit: Z:\electronics\git.acramonics\ScopeFilter\kicad\Butterworth_Active_50kHz.net
+Start Time: Mon Jan 19 14:04:52 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Instance "u1:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u2:M6": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 1.011 seconds.
+
+Files loaded:
+Z:\electronics\git.acramonics\ScopeFilter\kicad\Butterworth_Active_50kHz.net
+C:\Users\Andrew\AppData\Local\LTspice\lib\sub\ADI.lib
+

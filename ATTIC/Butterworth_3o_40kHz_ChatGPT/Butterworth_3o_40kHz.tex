@@ -1,0 +1,43 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{circuitikz}
+\usepackage{siunitx}
+
+\begin{document}
+
+\begin{circuitikz}[american]
+
+% ---------- Stage 1: 2nd-order Sallen-Key Butterworth ----------
+
+\node (Vin) at (0,0) {$V_{in}$};
+\draw (Vin) to[short] (1,0);
+
+\draw (1,0) to[R=$R_1\,3.9\,\mathrm{k}\Omega$] (3,0);
+\draw (3,0) to[R=$R_2\,3.9\,\mathrm{k}\Omega$] (5,0);
+
+\draw (3,0) to[C=$C_1\,1\,\mathrm{nF}$] (3,-2) node[ground]{};
+\draw (5,0) to[C=$C_2\,1\,\mathrm{nF}$] (5,-2) node[ground]{};
+
+\draw (5,0) to[short] (6,0);
+
+\node[op amp] (op1) at (7.5,-1) {};
+\draw (6,0) |- (op1.+);
+
+\draw (op1.-) to[R=$R_g\,10\,\mathrm{k}\Omega$] (6,-3) node[ground]{};
+\draw (op1.out) to[R=$R_f\,5.9\,\mathrm{k}\Omega$] (op1.-);
+
+\draw (op1.out) to[short] (9, -1) node[right]{$V_1$};
+
+% ---------- Stage 2: 1st-order Active LPF ----------
+
+\draw (9,-1) to[R=$R_3\,3.9\,\mathrm{k}\Omega$] (11,-1);
+\draw (11,-1) to[C=$C_3\,1\,\mathrm{nF}$] (11,-3) node[ground]{};
+
+\node[op amp] (op2) at (13,-2) {};
+\draw (11,-1) |- (op2.+);
+
+\draw (op2.-) to[short] (12,-4) node[ground]{};
+\draw (op2.out) to[short] (15,-2) node[right]{$V_{out}$};
+
+\end{circuitikz}
+
+\end{document}

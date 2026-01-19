@@ -1,0 +1,23 @@
+Voltage Source (V1):
+
+AC input signal with 1V amplitude and 1kHz frequency for initial testing.
+
+The input signal is in SIN form for the AC analysis.
+
+Sallen-Key Stage (Op-Amp U1):
+
+Components: R1, R2, C1, C2 configure the 2nd-order Sallen-Key Butterworth stage.
+
+The feedback network (Rf, Rg) sets the gain of the op-amp.
+
+1st-Order Active Stage (Op-Amp U2):
+
+The output from the 2nd-order stage (N004) goes into the 1st-order low-pass filter.
+
+R3 and C3 form the simple RC low-pass filter with an active op-amp buffer.
+
+Frequency Analysis:
+
+The AC DEC 20 command runs an AC sweep from 1 Hz to 100 MHz, with 20 points per decade, which allows us to view the frequency response.
+
+This will produce a Bode plot of the system’s frequency response.
