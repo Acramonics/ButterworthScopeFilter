@@ -4852,8 +4852,8 @@
 			(layer "F.Fab")
 			(uuid "57c5b43f-8089-4382-9390-6f4a05341b5f")
 		)
-		(fp_text user "A"
-			(at 4.34 0 90)
+		(fp_text user "K"
+			(at -1.677817 -1.326371 90)
 			(layer "F.SilkS")
 			(uuid "72b45cfe-8696-4916-9df9-123cf1639a32")
 			(effects
@@ -10232,6 +10232,36 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_line
+		(start 43.7 117.35)
+		(end 52.65 117.35)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0652b59d-0b58-4bd0-b413-17413b59607a")
+	)
+	(gr_line
+		(start 52.65 117.35)
+		(end 52.65 122.75)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9fd0a7ff-b42a-4b1a-a14d-499733b1c291")
+	)
+	(gr_line
+		(start 52.65 122.743463)
+		(end 83.4 122.75)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c26c3840-3b98-45ea-bbf9-7ab27536f851")
+	)
 	(gr_rect
 		(start 43.35 94.7)
 		(end 83.9 143.2)
@@ -10292,6 +10322,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "PSU"
+		(at 52.8 125.3 0)
+		(layer "F.SilkS")
+		(uuid "2bddc3bf-4452-476a-9ca3-1bdf2ef8aea9")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "G\n\nS"
 		(at 82.05 113.65 0)
 		(layer "F.SilkS")
@@ -10304,7 +10347,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "V1.0\nA Martin\nAcramonics\n(c) Jan 2026"
+	(gr_text "V1.0.1\nA Martin\nAcramonics\n(c) Jan 2026"
 		(at 70.05 101.2 0)
 		(layer "F.SilkS")
 		(uuid "3d1d178b-7a92-4ffe-9641-741fa8715882")
