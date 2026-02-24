@@ -26,9 +26,9 @@ The `FrontPanelDesigner` directory contains a simple front panel
 layout for use with a small aluminium case (W:3.25" H:1.25" x D:4").
 The software is available from schaeffer-ag.de/en/front-panel-designer
 
-![Front/top view](./images/100389.jpg)
-![Front view](./images/100391.jpg)
-![Rear view](./images/100390.jpg)
+![Front/top view](./images/100389.png)
+![Front view](./images/100391.png)
+![Rear view](./images/100390.png)
 
 I built the filter without Molex 254s for any of the wires except the
 power input. This is the only one that comes from the back making it
