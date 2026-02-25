@@ -208,7 +208,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/f4ac35fc-94cb-4bca-a3cd-c6669b073d67")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 -1.33)
@@ -502,7 +502,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8ff23dab-2aa6-4bbc-bc8a-cd93ae41521f")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 2.99)
@@ -898,7 +898,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/99378bd8-d3dd-4a59-934f-e56b7ee5142c")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -1161,7 +1161,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dc04bd86-3154-4de0-a7db-5580ab105d44")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -1426,7 +1426,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f09d8f03-c514-4d74-89b5-69a0f1bf7c32")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 2.99)
@@ -1822,7 +1822,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cb5132b8-50ef-40cb-859d-9500fa48a95e")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.12 -1.87)
@@ -2045,7 +2045,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/47ec1db7-ebb0-46a1-b679-8654f5397f4d")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.12 -1.87)
@@ -2367,7 +2367,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6d33f794-08a8-4d5a-bff6-5ee832f6d69b")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -2628,7 +2628,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm*")
 		(path "/02862afc-320d-49da-beb3-3ef26283ebf8")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.16 -1.33)
@@ -3023,7 +3023,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/87a040a6-2d26-43a6-ac49-4b364e8b19fe")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.67 -2)
@@ -3419,7 +3419,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8922cc50-9b9e-49f1-a1d0-70608a2a80cc")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.12 -1.87)
@@ -3644,7 +3644,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/497b1ae7-7dfe-425e-b129-3696aed5bb21")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.67 -2)
@@ -4081,7 +4081,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/919f708d-0b3f-4b0a-9893-24f7f7a2b18d")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -4346,7 +4346,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/96e411c4-3e9f-4705-9288-863f03892a42")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.92 -3.03)
@@ -4768,7 +4768,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/753d3f2b-048b-4855-9ca3-8756f0eb6048")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.326371 0)
@@ -5003,7 +5003,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5a15c4cc-f382-41bb-b8ac-b72c8baa5e1b")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.37 0)
@@ -5188,7 +5188,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/e62c3cb1-4589-4a77-ab53-d2058cf9bc7f")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -6534,7 +6534,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/10598c27-e22a-4935-9cf8-f1b36d19ce78")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -7880,7 +7880,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/42a0f4ab-306d-4102-8f1d-90f2979fef3a")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -8143,7 +8143,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/e352fe7c-7c38-455c-8b20-20aeeff381e5")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.53 1.85)
@@ -8363,7 +8363,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d7801f1-442d-45e5-9455-b627671b4af1")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.12 -1.87)
@@ -8588,7 +8588,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4d2a116a-0e6f-4794-9bd2-637d53db1078")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.92 -3.03)
@@ -8984,7 +8984,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/754e541f-fe8e-4b6b-adc9-029f88e365af")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 -1.87)
@@ -9207,7 +9207,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3c287610-ff3f-4586-ba43-e319acfdcba7")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 1.87)
@@ -9430,7 +9430,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bcdada17-375f-4b60-b478-0cf07c8823c9")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -9794,7 +9794,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3234830c-95b9-4723-b04c-67c504f458dc")
 		(sheetname "/")
-		(sheetfile "Butterworth_3o_40kHz.kicad_sch")
+		(sheetfile "Butterworth_3o_50kHz.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.92 -3.03)
@@ -10347,7 +10347,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "V1.0.1\nA Martin\nAcramonics\n(c) Jan 2026"
+	(gr_text "V1.0.2\nA Martin\nAcramonics\n(c) Jan 2026"
 		(at 70.05 101.2 0)
 		(layer "F.SilkS")
 		(uuid "3d1d178b-7a92-4ffe-9641-741fa8715882")

@@ -479,7 +479,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Butterworth_3o_40kHz.kicad_pro",
+    "filename": "Butterworth_3o_50kHz.kicad_pro",
     "version": 3
   },
   "net_settings": {
